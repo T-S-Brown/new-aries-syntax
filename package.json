@@ -1,0 +1,15 @@
+{
+  "name": "new-aries-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A custom syntax theme for the atom text editor",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/t-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
